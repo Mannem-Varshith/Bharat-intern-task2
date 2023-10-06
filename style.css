@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .input, .output {
+    margin: 10px;
+  }
+  input {
+    width: 100px;
+  }
